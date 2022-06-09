@@ -1,0 +1,13 @@
+
+node_modules/
+dist/**bundle.js**
+dist/style.css
+
+.DS_*
+*.log
+logs
+**/*.backup.*
+**/*.back.*
+
+
+package-lock.json

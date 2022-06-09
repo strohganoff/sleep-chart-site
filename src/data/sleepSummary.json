@@ -1,0 +1,30 @@
+{
+    "Sunday": {
+        "dailyAvg": ["12:00 AM","12:00 AM"],
+        "rollingAvg": ["12:00 AM","12:00 AM"]
+    },
+    "Monday":{
+        "dailyAvg": ["1:00 AM","1:00 AM"],
+        "rollingAvg": ["1:00 AM","1:00 AM"]
+    },
+    "Tuesday":{
+        "dailyAvg": ["2:00 AM","2:00 AM"],
+        "rollingAvg": ["2:00 AM","2:00 AM"]
+    },
+    "Wednesday":{
+        "dailyAvg": ["2:00 AM","2:00 AM"],
+        "rollingAvg": ["2:00 AM","2:00 AM"]
+    },
+    "Thursday":{
+        "dailyAvg": ["3:00 AM","3:00 AM"],
+        "rollingAvg": ["3:00 AM","3:00 AM"]
+    },
+    "Friday":{
+        "dailyAvg": ["4:00 AM","4:00 AM"],
+        "rollingAvg": ["4:00 AM","4:00 AM"]
+    },
+    "Saturday":{
+        "dailyAvg": ["5:00 AM","5:00 AM"],
+        "rollingAvg": ["5:00 AM","5:00 AM"]
+    }
+}
